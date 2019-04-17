@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/tools/trans_file.cpp
+fstream
+-
+sstream
+-
+utility
+-
+string
+-
+cstdint
+-
+random
+-
+algorithm
+-
+

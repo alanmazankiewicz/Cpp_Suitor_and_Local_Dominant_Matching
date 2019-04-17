@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././implementation/edge_list2.hpp
+cstdint
+-
+fstream
+-
+utility
+-
+string
+-
+vector
+-
+random
+-
+
+.././implementation/graph_adj_array.hpp
+cstddef
+-
+vector
+-
+queue
+-
+algorithm
+-
+edge_list2.hpp
+.././implementation/edge_list2.hpp
+
+.././implementation/sequential_suitor.hpp
+implementation/graph_adj_array.hpp
+.././implementation/implementation/graph_adj_array.hpp
+iostream
+-
+chrono
+-
+algorithm
+-
+numeric
+-
+tuple
+-
+fstream
+-
+sstream
+-
+assert.h
+-
+
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/sequential_suitor.cpp
+implementation/sequential_suitor.hpp
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/implementation/sequential_suitor.hpp
+

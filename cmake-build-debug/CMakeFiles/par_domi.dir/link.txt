@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -std=c++17 -msse4.2 -Wall -Wextra -O3 -g -pthread -g -O0 -gdwarf-3 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/par_domi.dir/source/parallel_dominant.cpp.o  -o par_domi 

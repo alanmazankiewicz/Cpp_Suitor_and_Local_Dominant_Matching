@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././implementation/edge_list2.hpp
+cstdint
+-
+fstream
+-
+utility
+-
+string
+-
+vector
+-
+random
+-
+
+.././implementation/graph2_adj_array.hpp
+cstddef
+-
+vector
+-
+queue
+-
+algorithm
+-
+edge_list2.hpp
+.././implementation/edge_list2.hpp
+
+.././implementation/parallel_free_suitor.hpp
+implementation/graph2_adj_array.hpp
+.././implementation/implementation/graph2_adj_array.hpp
+iostream
+-
+chrono
+-
+algorithm
+-
+numeric
+-
+cstddef
+-
+memory
+-
+thread
+-
+atomic
+-
+fstream
+-
+sstream
+-
+assert.h
+-
+
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/parallel_free_suitor.cpp
+implementation/parallel_free_suitor.hpp
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/implementation/parallel_free_suitor.hpp
+

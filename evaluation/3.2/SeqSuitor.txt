@@ -1,0 +1,6 @@
+Algorithm Runtime Quality
+SeqSuitorSimp 1.06211 3.39907e+09
+SeqSuitorSimp 0.981839 3.39907e+09
+SeqSuitorSimp 0.981626 3.39907e+09
+SeqSuitorSimp 0.986377 3.39907e+09
+SeqSuitorSimp 0.981396 3.39907e+09

@@ -1,0 +1,26 @@
+- Run Plot scripts from this dir as working dir
+- .raw_graph are files coming out of the RMAT generator
+- .graph files are preproccessed files with ./transfile (structure as from exercise 2)
+
+
+3.2 only simple matchings against each other SeqDomi SeqSuitor
+./PaRMAT -nVertices 1000000 -nEdges 100000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf.raw_graph -threads 48
+
+3.2 All against each other SeqDomi_2 SeqSuitor_2 (see 3.4, 3.5)
+./PaRMAT -nVertices 100000 -nEdges 1000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf3.raw_graph -threads 48
+
+3.2 Scaling (Section 1 - 6) (SeqDomi_3, SeqSuitor_3)
+./PaRMAT -nVertices 100000 -nEdges 1000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf3.raw_graph -threads 48
+./PaRMAT -nVertices 200000 -nEdges 2000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf6.raw_graph -threads 48
+./PaRMAT -nVertices 600000 -nEdges 6000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf7.raw_graph -threads 48
+./PaRMAT -nVertices 1000000 -nEdges 100000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf.raw_graph -threads 48
+./PaRMAT -nVertices 2000000 -nEdges 200000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf4.raw_graph -threads 48
+./PaRMAT -nVertices 4000000 -nEdges 400000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf5.raw_graph -threads 48
+
+3.3
+./PaRMAT -nVertices 6000000 -nEdges 400000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf2.raw_graph -threads 48
+
+3.4, 3.5 (Weights have to be same for all therefore no .raw_graph!)
+./PaRMAT -nVertices 100000 -nEdges 1000000 -noEdgeToSelf -noDuplicateEdges -undirected -output ../../../data/perf3.raw_graph -threads 48
+./trans_file ../data/perf.raw_graph ../data/perf3.graph
+

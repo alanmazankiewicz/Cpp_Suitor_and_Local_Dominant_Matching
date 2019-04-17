@@ -1,0 +1,8 @@
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/CMakeFiles/seq_suitor.dir
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/CMakeFiles/par_free_suitor.dir
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/CMakeFiles/trans_file.dir
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/CMakeFiles/par_suitor.dir
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/CMakeFiles/par_domi.dir
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/CMakeFiles/seq_domi.dir

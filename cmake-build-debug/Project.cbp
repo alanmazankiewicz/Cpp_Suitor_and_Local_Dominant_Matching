@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="seq_suitor">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/seq_suitor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 seq_suitor"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="seq_suitor/fast">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/seq_suitor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 seq_suitor/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="par_free_suitor">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/par_free_suitor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 par_free_suitor"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="par_free_suitor/fast">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/par_free_suitor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 par_free_suitor/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trans_file">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/trans_file" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 trans_file"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trans_file/fast">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/trans_file" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 trans_file/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="par_suitor">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/par_suitor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 par_suitor"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="par_suitor/fast">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/par_suitor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 par_suitor/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="par_domi">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/par_domi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 par_domi"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="par_domi/fast">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/par_domi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 par_domi/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="seq_domi">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/seq_domi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 seq_domi"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="seq_domi/fast">
+				<Option output="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/seq_domi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 seq_domi/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4\ Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/parallel_dominant.cpp">
+			<Option target="par_domi"/>
+		</Unit>
+		<Unit filename="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/parallel_free_suitor.cpp">
+			<Option target="par_free_suitor"/>
+		</Unit>
+		<Unit filename="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/parallel_suitor.cpp">
+			<Option target="par_suitor"/>
+		</Unit>
+		<Unit filename="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/sequential_dominant.cpp">
+			<Option target="seq_domi"/>
+		</Unit>
+		<Unit filename="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/sequential_suitor.cpp">
+			<Option target="seq_suitor"/>
+		</Unit>
+		<Unit filename="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/tools/trans_file.cpp">
+			<Option target="trans_file"/>
+		</Unit>
+		<Unit filename="/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././implementation/edge_list2.hpp
+cstdint
+-
+fstream
+-
+utility
+-
+string
+-
+vector
+-
+random
+-
+
+.././implementation/graph_adj_array.hpp
+cstddef
+-
+vector
+-
+queue
+-
+algorithm
+-
+edge_list2.hpp
+.././implementation/edge_list2.hpp
+
+.././implementation/local_queue.hpp
+cstddef
+-
+memory
+-
+algorithm
+-
+
+.././implementation/sequential_dominant.hpp
+implementation/graph_adj_array.hpp
+.././implementation/implementation/graph_adj_array.hpp
+implementation/local_queue.hpp
+.././implementation/implementation/local_queue.hpp
+iostream
+-
+chrono
+-
+algorithm
+-
+fstream
+-
+sstream
+-
+assert.h
+-
+
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/sequential_dominant.cpp
+implementation/sequential_dominant.hpp
+/Users/Mazan/Documents/Uni/KIT/Vorlesungen/4 Semester/Effizientes-parallels-cpp/Matching_Repo/exercise5/source/implementation/sequential_dominant.hpp
+

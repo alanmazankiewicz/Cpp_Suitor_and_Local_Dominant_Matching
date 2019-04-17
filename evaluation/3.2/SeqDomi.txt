@@ -1,0 +1,6 @@
+Algorithm Runtime Quality
+SeqDomiSimp 4.08632 3.39902e+09
+SeqDomiSimp 4.09394 3.39902e+09
+SeqDomiSimp 4.08885 3.39902e+09
+SeqDomiSimp 4.08466 3.39902e+09
+SeqDomiSimp 4.08936 3.39902e+09

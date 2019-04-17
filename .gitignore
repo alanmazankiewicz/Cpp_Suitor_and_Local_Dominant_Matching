@@ -1,0 +1,5 @@
+**/build/**
+**/data/**
+*.graph
+*.zip
+.idea/
